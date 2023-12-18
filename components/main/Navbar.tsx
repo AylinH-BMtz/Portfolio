@@ -44,9 +44,9 @@ const Navbar = () => {
           {Socials.map((social) => (
             <a href={social.url} target="_blank" rel="noopener noreferrer" className="navbar-icon">
             <Image
+              key={social.id}
               src={social.src}
               alt={social.name}
-              key={social.id}
               width={24}
               height={24}
             />
