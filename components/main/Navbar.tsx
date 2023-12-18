@@ -46,7 +46,7 @@ const Navbar = () => {
             <Image
               src={social.src}
               alt={social.name}
-              key={social.name}
+              key={social.id}
               width={24}
               height={24}
             />

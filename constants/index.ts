@@ -74,16 +74,19 @@ export const Skill_data = [
   export const Socials = [
     {
       name: "Github",
+      id: 1,
       src: "/github-142-svgrepo-com.svg",
       url: "https://github.com/AylinH-BMtz",
     },
     {
       name: "Facebook",
+      id: 2,
       src: "/facebook.svg",
       url: "https://www.facebook.com/aylin.buenrostro.50/",
     },
     {
       name: "Discord",
+      id: 3,
       src: "/discord.svg",
       url: "discordapp.com/usuarios/963284475796664320",
     },
