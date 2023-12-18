@@ -46,8 +46,8 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          I&apos;m a Front End Developer Mechatronics Engineer with experience in Website,
-          Mobile, and App development. Check out my skills.
+          I&apos;m a Web Developer Mechatronics Engineer, with experience in Website,
+          Mobile, and App development; my specialty is Front-End Development. Check out my skills and experience.
         </motion.p>
         <motion.a
           variants={slideInFromLeft(1)}

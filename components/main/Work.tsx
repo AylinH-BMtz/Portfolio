@@ -13,14 +13,14 @@ const Work = () => {
 
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
         <WorkCard
-          src="/NextWebsite.png"
+          src="/pepsico.jpg"
           title="FrontEnd Developer in PepsiCo International"
-          description="FrontEnd Developer for the latinamerican HR department"
+          description="Front-End Developer for the latinamerican HR department"
         />
         <WorkCard
-          src="/CardImage.png"
+          src="/tian.png"
           title="Web Developer in TIAN Technology"
-          description="Professional practices developing an app with TensorFlow and ReactNative"
+          description="Profesional practices developing an app with TensorFlow and React Native"
         />
       </div>
     </div>

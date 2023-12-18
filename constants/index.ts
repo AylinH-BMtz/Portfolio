@@ -49,6 +49,13 @@ export const Skill_data = [
       height: 80,
     },
     {
+      skill_name: "Python",
+      Image: "/python.png",
+      width: 75,
+      height: 75,
+      
+    },
+    {
       skill_name: "Node js",
       Image: "/node-js.png",
       width: 80,
@@ -60,6 +67,7 @@ export const Skill_data = [
       width: 40,
       height: 40,
     },
+
   
   ];
   
@@ -130,6 +138,13 @@ export const Skill_data = [
     
   export const Other_skill = [
     {
+      skill_name: "Tensor Flow",
+      Image: "/tensor.png",
+      width: 70,
+      height: 70,
+      
+    },
+    {
       skill_name: "React Native",
       Image: "/ReactNative .png",
       width: 70,
@@ -154,6 +169,7 @@ export const Skill_data = [
       height: 80,
       
     },
+
   ];
   
   
